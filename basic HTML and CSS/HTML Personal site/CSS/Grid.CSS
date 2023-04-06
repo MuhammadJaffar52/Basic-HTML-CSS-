@@ -1,0 +1,21 @@
+
+main{
+    display: grid;
+grid-template-columns: 200px 200px   ;
+grid-template-rows: 200px 200px   200px;
+}
+
+.Box1{
+    background-color:rgb(38, 52, 245);
+    grid-row: ;
+}
+.Box2{
+    background-color:green;
+    grid-row: 1/3;
+    
+}
+
+.Box3{
+    background-color:yellow;
+    grid-template-columns: px;
+}

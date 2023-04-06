@@ -1,0 +1,114 @@
+div{
+    background-color: #E4F9F5;
+}
+body{
+    color: #66BFBF;
+    background-color: #E4F9F5 ;
+    text-align: center;
+    font-family: "Sofia",sans-serif;
+}
+.top{
+    border-image-width: 20px;
+}
+.montain{
+    height: 50px;
+    width: 130px;
+    border: ;
+    position: relative;
+    left: 190px;
+    top: 50px;
+    background-color: #E4F9F5;
+    
+}
+.clo{
+    height: px;
+    width: px;
+    background-color: #E4F9F5;
+    position: relative;
+    bottom: 100px;
+    left: 20px;
+    border: ;
+    top: px;
+    
+    
+}
+.cloud{
+    height: 200px;
+    width:380px;
+
+    background-color: #E4F9F5;
+    position: relative;
+    top: 210px;
+    right: 80px;
+}
+
+h1{
+    color: #66BFBF;
+    width: 80%;
+    margin: 0 auto 0 auto;
+    font-family:"Sofia", sans-serif; 
+    font-size: 2.625rem; 
+   
+
+  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*.h2{
+    font-family:sans-serif;
+}
+h3{
+    font-family:sans-serif;
+
+}*/
+
+.profile{
+    position: relative;
+    top: 20px;
+ left: 280px;
+ border: round;
+ width: 60%;
+ margin: auto
+ float: ;
+ background-color: ;
+}
+.bird{
+    position: relative;
+    left: 500px;
+    bottom: 120px;
+}
+.middle-container{
+    margin: 240px 0;
+    position: relative;
+    background-color: ;
+
+}
+.skill-row{
+    background-color: ;
+    width: ;
+    margin: auto;
+    text-align: center;
+    line-height: ;
+    float:;
+    position: relative;
+    left: 10px;
+    top: 20px
+
+}
+.chill{
+    background-color: ;
+    width:  ;
+    float: ;
+    position: relative;
+    left: 25px;
+
+}
+.contact-me{
+    width: 40%;
+}
+div{
+    background-color: rgb(255, 248, 248); 
+    color: rgb(10, 10, 10);
+}
+.flex{
+    display: ;
+}

@@ -1,0 +1,75 @@
+body{
+background-color: #dee6f8;
+background-image: url("https://image.shutterstock.com/image-photo/students-studying-testing-lesson-teacher-260nw-325739333.jpg");
+} 
+    
+  hr{
+    border-style:none;
+  border-top-style:dotted;
+  border-width: 5px;
+  width: 30%;
+  }
+  h1{
+    /*color: rgb(107, 78, 20);*/
+  }
+h2{
+  color:rgb(107, 78, 20);
+}
+  h3{
+    color: rgb(107, 78, 20);
+  }
+  .contact{
+    color: blue;
+    text-align: start;
+  }
+  .table{
+     color: red;
+    text-align: start;
+  }
+  .forms{
+     color:orange;
+    text-align: start;
+  }
+  .skills{
+     color:blue;
+    text-align: start;
+  }
+.fish{
+   color: blue;
+    text-align: start;
+}
+.circular{
+  border-radius: 90%;
+  background-color: skyblue;
+  border-width: 5px;
+  border-color:rgb(128, 123, 112);
+  padding: 5px ;
+  position: relative;
+  left: 5px;
+}
+.circular:hover{
+  background-color: #66BFBF;
+}
+body{
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcomputer-lab-blur&psig=AOvVaw3dTuFVBu064Y0zrFuNG5Fp&ust=1665834134258000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjmjPDR3_oCFQAAAAAdAAAAABAE");
+
+
+}
+.ul{
+  color: rgb(107, 78, 20);
+  border-width: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+   

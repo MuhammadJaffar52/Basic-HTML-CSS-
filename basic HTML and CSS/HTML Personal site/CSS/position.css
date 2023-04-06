@@ -1,0 +1,88 @@
+.pic{
+    filter: blur(0px);
+    image-resolution: 100%;
+    height: 100px;
+    width: 200px ;
+    position: relative;
+    left: 120px;
+    top: 150px;
+}
+body{
+    background-color: rgb(213, 233, 241);
+   /* background-image: url("<img
+      class="pic"
+      src="https://www.w3schools.com/css/img_5terre_wide.jpg"
+      alt=""
+    />");*/
+}
+.orange{
+    height: 100px;
+    width: 100px;
+    background-color:orange;
+    display: inline-block;
+    position: relative;
+    left: 210px;
+}
+.yellow{
+     height: 100px;
+    width: 100px;
+    background-color: gold;
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    top: px; 
+
+}
+.gold{
+     height: 100px;
+    width: 100px;
+    background-color:yellow;
+    display: inline-block;
+    position: fixed;
+    right: 200px;
+    top: opx;
+}
+
+hr{
+ display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: brown;
+}
+h3{
+    color: brown;
+    
+}
+h1{
+    text-align: center;
+    
+}
+
+.green{
+     height: 100px;
+    width: 90px;
+    background-color:green;
+position: absolute;
+top: ;
+
+}
+.red{
+     height: 100px;
+    width: 90px;
+    background-color:red;
+position: absolute;
+left: 98px;
+top: 395px;
+}
+.black{
+     height: 100px;
+    width: 90px;
+    background-color:black;
+    position: absolute;
+    left: 188px;
+    top: 495px;
+}

@@ -1,0 +1,33 @@
+.top-container{
+    background-color: #E4F9F5;
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    padding: 20px;
+    margin: 0px
+    border: solid 10px;
+
+}
+.middle-container{
+    background: rgba(255, 187, 0, 0.521);
+    height: 200px;
+    width: 200px;
+    
+    padding: 20px;
+    margin: 0px;
+    border: solid 10px;
+    margin-left: 260px;
+    
+
+}
+.bottom-container{
+    background-color: rgb(68, 62, 10);
+    height: 200px;
+    width: 200px;
+    
+    padding: 20px;
+    margin: 0px;
+    border: solid 10px;
+    margin-left: 520px;
+
+}
